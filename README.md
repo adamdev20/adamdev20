@@ -1,15 +1,17 @@
-# 💫 About Me:
-I am now 15 years old
+<h1 align="center">Hi 👋, I'm Adam Saputra</h1>
+<h3 align="center">I am a programmer from Indonesia</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adamdev20&label=Profile%20views&color=0e75b6&style=flat" alt="adamdev20" /> </p>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adamdev20&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=adamdev20&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adamdev20&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+- 🌱 I’m currently learning **Javascript**
 
----
-[![](https://visitcount.itsvg.in/api?id=adamdev20&icon=0&color=0)](https://visitcount.itsvg.in)
+- 💬 Ask me about **Java script,CSS,html**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 📫 How to reach me **adamganz95@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
