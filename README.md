@@ -10,7 +10,7 @@
 # Hello, I'm Adam Dev<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 😎
 
 ## 🚀About me:
-- 🔭 I’m currently not working
+- 👨‍💻I am a beginner in programming
 - 🌱 I’m currently learning javascript
 - 🤑 donate me https://saweria.co/adammewing
 - 📫 How to reach me: adambugreport@gmail.com
