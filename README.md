@@ -13,4 +13,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,html,css" />
 </p>
- 
+
+ ## visitors 👀
+
+![Profile Views](https://komarev.com/ghpvc/?username=Arifzyn19&color=blueviolet)
