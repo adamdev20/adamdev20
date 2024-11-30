@@ -9,7 +9,7 @@
 - 💬 Ask me about JavaScript
 - 📫 How to reach me: adambugreport@gmail.com
 
-## 👨‍💻Programming languages
+## 👨‍💻I’m currently learning languages
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
  <img src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=json&logoColor=white" alt="json">
