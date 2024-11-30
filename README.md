@@ -12,3 +12,8 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,py,html,css" />
 </p>
+
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+</p>
