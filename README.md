@@ -15,6 +15,7 @@
 - 🤑 donate me https://saweria.co/adammewing
 - 📫 How to reach me: adambugreport@gmail.com
 
+
 ## ⚡ My Skill 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,py,html,css" />
