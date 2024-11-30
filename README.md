@@ -1,4 +1,4 @@
-# Hi there, I'm Vincent - aka [vincentwidyan] 👋
+# Hi there, I'm Adam - aka [AdamSaputra] 👋
 ## About me:
 - 🔭 I’m currently Not Working
 - 🌱 I’m currently learning Lua and Javascript
