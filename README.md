@@ -22,7 +22,7 @@
 </p>
 
  <div align="center">
-  <img src="https://profile-counter.glitch.me/mhankbarbar/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/adamdev20/count.svg?"  />
 </div>
 
  <p align="center">
