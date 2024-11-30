@@ -3,9 +3,9 @@
 # Hi there, I'm Adam👋🏻
 
 ## About me:
-- 🔭 I’m currently working as Cyber Security
-- 🌱 I’m currently learning Python and Javascript
+- 🔭 I’m currently not working
+- 🌱 I’m currently learning javascript
 - 👯 I’m looking to collaborate as Data Automation and Analyst
-- 🤔 I’m looking for suggest for Rust Project Ideas
-- 💬 Ask me about anything
-- 📫 How to reach me: vincentwidyan@gmail.com
+- 🤔 I’m looking for suggest for Javascript Project Ideas
+- 💬 Ask me about JavaScript
+- 📫 How to reach me: adambugreport@gmail.com
