@@ -21,11 +21,11 @@
   <img src="https://skillicons.dev/icons?i=js,py,html,css" />
 </p>
 
-## <div align="center">
+ <div align="center">
   <img src="https://profile-counter.glitch.me/mhankbarbar/count.svg?"  />
 </div>
 
-## <p align="center">
+ <p align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
 </p>
