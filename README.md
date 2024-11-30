@@ -8,3 +8,6 @@
 - 🤔 I’m looking for suggest for Javascript Project Ideas
 - 💬 Ask me about JavaScript
 - 📫 How to reach me: adambugreport@gmail.com
+
+## I'm Currently learning
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
