@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There,+I'm+Adam+Dev.+15+YO;I'm+Web+And+Bot+Developer)](https://git.io/typing-svg)
 
-# Hi there, I'm Adam👋🏻
+# ## Hello, I'm [Amirul Dev](https://instagram.com/amirul.dev) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
 
 ## About me:
 - 🔭 I’m currently not working
