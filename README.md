@@ -1,5 +1,6 @@
+<p align="center">
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=4000&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=hi+there,i'm+adam+dev.+15+YO)
-
+</p>
 # Hello, I'm Adam Dev<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 😎
 
 ## 🚀About me:
