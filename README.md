@@ -10,7 +10,7 @@
 
 ## ⚡ My Skill 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,py,html,css" />
 </p>
 
  ## visitors 👀
