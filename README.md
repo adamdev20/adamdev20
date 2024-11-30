@@ -24,7 +24,7 @@
  <div align="center">
      <h4>Visitor's Count :</h4>
   <img src="https://profile-counter.glitch.me/adamdev20/count.svg?"  />
- <p><img src="https://count.getloli.com/get/@nazedev-github-readme?theme=rule34" /></p>
+ <p><img src="https://count.getloli.com/get/@adamdev20-github-readme?theme=rule34" /></p>
 </div>
 
  <p align="center">
