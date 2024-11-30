@@ -10,7 +10,7 @@
 - 📫 How to reach me: adambugreport@gmail.com
 
 ## ⚡ My Skill 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=js,html,css" />
 </p>
  
