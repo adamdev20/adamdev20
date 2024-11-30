@@ -4,8 +4,7 @@
 ## 🚀About me:
 - 🔭 I’m currently not working
 - 🌱 I’m currently learning javascript
-- 🤔 I’m looking for suggest for Javascript Project Ideas
-- 💬 Ask me about JavaScript
+- 🤑 donate me https://saweria.co/adammewing
 - 📫 How to reach me: adambugreport@gmail.com
 
 ## ⚡ My Skill 
