@@ -18,7 +18,7 @@
 
 ## ⚡ My Skill 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,py,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,py,lua,html,css" />
 </p>
 
  <div align="center">
