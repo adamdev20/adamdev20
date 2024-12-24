@@ -16,10 +16,7 @@
 - 📫 How to reach me: adambugreport@gmail.com
 
 
-## ⚡ My Skill 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css" />
-</p>
+
 
  <div align="center">
      <h4>Visitor's Count :</h4>
