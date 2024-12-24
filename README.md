@@ -7,7 +7,7 @@
 </p>
 </div>
 
-# Hello, I'm Adam Dev<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 😎
+# Hello, I'm Adam <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 😎
 
 ## 🚀About me:
 - 👨‍💻I am a beginner in programming
