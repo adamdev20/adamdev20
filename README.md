@@ -7,5 +7,4 @@
 </p>
 </div>
 
-## 🚀About me:
-Hey, I’m Adam! Not a developer (yet), just someone dreaming to be one. Oh, and I love doing some scraping stuff!
+## 
