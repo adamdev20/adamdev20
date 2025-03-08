@@ -1,6 +1,4 @@
-<h1>Hi My Name Is Adam</h1>
-
-##
+<h1 align="center">Hi My Name Is Adam</h1>
 
 <div align="center">
     <img
