@@ -1,5 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=56&duration=4000&pause=1000&color=111111&center=true&vCenter=true&width=1200&lines=Adam+Snyder;Fullstack+Developer;Reverse+Engineering+Enthusiast;Welcome+to+my+GitHub+Profile" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=50&duration=4000&pause=1000&color=222222&center=true&vCenter=true&width=1200&height=120&lines=Adam+Snyder;Fullstack+Developer;Reverse+Engineering+Enthusiast" />
 
 </div>
