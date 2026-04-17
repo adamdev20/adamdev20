@@ -6,18 +6,13 @@
 
 ## Tools
 
-- Visual Studio Code
-- Visual Studio
-- .NET Framework
-- dnSpy
-- Cheat Engine
-- Git & GitHub
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ## Techniques
 
-- Runtime Memory Analysis
-- Dynamic Memory Patching
-- Toggleable Memory Injection Features
-- AOB Signature Scanning
-- .NET Assembly Inspection
-- Reverse Engineering Fundamentals
+Runtime Memory Analysis  
+Dynamic Memory Patching  
+AOB Signature Scanning  
+.NET Assembly Inspection
