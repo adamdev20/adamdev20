@@ -1,4 +1,6 @@
-<div align="center">
+# 💫 About Me:
+## Hi, I'm Adam Snyder 👋<br><br>Beginner fullstack web developer currently learning JavaScript, React, Tailwind CSS, and Node.js.<br><br>I enjoy building small projects and exploring how applications work behind the scenes.<br><br>📫 Email — your@email.com
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=50&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=1200&height=120&lines=Who+Am+I+?;I+Am+Adam+Saputra;Fullstack+Developer;Welcome+To+My+Github+Profile" />
-</div>
+
+# 💻 Tech Stack:
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
