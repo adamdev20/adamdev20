@@ -1,5 +1,5 @@
 # About Me:
- Hi, I'm Adam<br><br>Beginner fullstack web developer currently learning JavaScript, React, Tailwind CSS, and Node.js.<br><br>I enjoy building small projects and exploring how applications work behind the scenes.<br><br>📫 Email — your@email.com
+ Hi, I'm Adam<br><br>Beginner fullstack web developer currently learning JavaScript, React, Tailwind CSS, and Node.js.<br><br>I enjoy building small projects and exploring how applications work behind the scenes.<br><br>📫 Email — adamboxingmedan@email.com
 
 
 # Tech Stack:
