@@ -1,8 +1,14 @@
 # About Me
 
-Hi, I’m a passionate Informatics Engineering undergraduate at Universitas Hasanuddin. I’m deeply fascinated by the world of full-stack development and UI/UX design, always eager to push boundaries and explore the latest in web technologies. My goal is to become a skilled bug hunter, crafting secure, innovative solutions and uncovering vulnerabilities to make the digital world safer.
+Hi, I’m Adam — a beginner fullstack developer who is passionate about learning how modern web applications work from frontend to backend.
 
-I thrive on turning creative ideas into seamless, interactive experiences with clean, efficient code, whether it’s building robust applications or diving into ethical hacking challenges. Let’s connect, explore my projects, and create something extraordinary together! 🚀💻
+Currently, I’m building my fundamentals in HTML, CSS (Tailwind), JavaScript, React, and Node.js while exploring how systems work behind the scenes. I enjoy experimenting, solving problems step by step, and turning simple ideas into interactive web projects.
+
+I’m also interested in low-level concepts like memory behavior and reverse engineering as part of understanding software more deeply.
+
+Right now, my focus is improving my coding fundamentals, building real projects, and growing into a more solid fullstack developer over time.
+
+Feel free to explore my projects and follow my learning journey 🚀
 
 ## 🌐Skills
 
