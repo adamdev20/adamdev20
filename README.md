@@ -14,6 +14,6 @@ This GitHub is where I document my learning journey and progress as a fullstack 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,mongoDB" />
   </a>
 </p>
