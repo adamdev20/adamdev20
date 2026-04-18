@@ -1,14 +1,14 @@
-# About Me
+# About Me 👋
 
-Hi, I’m Adam — a beginner fullstack developer who is passionate about learning how modern web applications work from frontend to backend.
+Hi, I'm Adam 👋
 
-Currently, I’m building my fundamentals in HTML, CSS (Tailwind), JavaScript, React, and Node.js while exploring how systems work behind the scenes. I enjoy experimenting, solving problems step by step, and turning simple ideas into interactive web projects.
+I'm a beginner fullstack developer who is currently learning how to build modern web applications step by step.
 
-I’m also interested in low-level concepts like memory behavior and reverse engineering as part of understanding software more deeply.
+Right now, I’m focusing on strengthening my fundamentals in HTML, CSS (Tailwind), JavaScript, React, and Node.js by building simple projects and improving my understanding of both frontend and backend development.
 
-Right now, my focus is improving my coding fundamentals, building real projects, and growing into a more solid fullstack developer over time.
+I enjoy learning by doing, exploring how things work behind the scenes, and turning ideas into functional web applications.
 
-Feel free to explore my projects and follow my learning journey 🚀
+This GitHub is where I document my learning journey and progress as a fullstack developer 🚀
 
 ## 🌐Skills
 
