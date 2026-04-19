@@ -5,15 +5,7 @@
 
 <br/>
 
-<div align="center">
 
-```
-  🌱  learning fullstack development
-  🔨  building projects from scratch
-    📖  documenting every step of the journey
-```
-
-</div>
 
 <br/>
 
