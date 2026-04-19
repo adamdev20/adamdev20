@@ -36,5 +36,5 @@
 
 <!-- footer -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=6366F1&label=profile+views" />
+  <img src="https://komarev.com/ghpvc/?username=adamdev20&style=flat-square&color=6366F1&label=profile+views" />
 </div>
