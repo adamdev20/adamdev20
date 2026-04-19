@@ -1,61 +1,24 @@
-<!-- Animated header banner -->
+<!-- typing animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Adam+%F0%9F%91%8B;Fullstack+Developer+in+Progress;Building+one+project+at+a+time+%F0%9F%9A%80"
-       alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=888&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+Adam+%F0%9F%91%8B;Fullstack+developer+in+progress." />
 </div>
 
 <br/>
 
-## 🧑‍💻 About Me
-
-I'm a beginner fullstack developer passionate about building modern web applications — one commit at a time. This GitHub is my public learning journal: a place to document progress, experiment, and grow. 🚀
+I'm a beginner fullstack developer learning to build modern web apps step by step.
+This is where I document my journey. 🚀
 
 <br/>
 
-- 🌱 Currently learning: **React**, **Node.js** & **MongoDB**
-- 🔭 Working on personal fullstack projects
-- 💬 Ask me about anything frontend — I love talking UI/UX
-- 📫 Reach me at: `your@email.com`
-
-<hr/>
-
-## 🌐 Tech Stack
-
+<!-- skills -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb&perRow=8"
-       alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb" />
 </p>
 
-<hr/>
+<br/>
 
-## 📊 GitHub Stats
-
+<!-- github stats -->
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-       height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
-       height="165" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"
-       alt="GitHub Streak" />
-</div>
-
-<hr/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"
-       alt="snake gif" />
-</div>
-
-<hr/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=6366F1"
-       alt="Profile views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&hide_title=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=default" height="150" />
 </div>
