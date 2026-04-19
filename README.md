@@ -1,24 +1,40 @@
-<!-- typing animation -->
+<!-- header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=888&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+Adam+%F0%9F%91%8B;Fullstack+developer+in+progress." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=460&lines=Hi%2C+I'm+Adam.;Fullstack+developer+in+progress.;Building+one+commit+at+a+time." />
 </div>
 
 <br/>
 
-I'm a beginner fullstack developer learning to build modern web apps step by step.
-This is where I document my journey. 🚀
+<div align="center">
+
+```
+  🌱  learning fullstack development
+  🔨  building projects from scratch
+  📖  documenting every step of the journey
+```
+
+</div>
 
 <br/>
 
+<!-- divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 <!-- skills -->
+<h3 align="center">⚡ Tech Stack</h3>
+
+<br/>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb&perRow=8" />
 </p>
 
 <br/>
 
-<!-- github stats -->
+<!-- divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- footer -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&hide_title=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=default" height="150" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=6366F1&label=profile+views" />
 </div>
