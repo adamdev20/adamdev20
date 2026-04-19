@@ -1,4 +1,4 @@
-![Banner](adam_banner.gif)
+![Banner]([adam_banner.gif](https://github.com/adamdev20/adamdev20/blob/main/adam%20banner.gif))
 
 <h1 align="center">Hi, I'm Adam 👋</h1>
 
