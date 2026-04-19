@@ -10,7 +10,7 @@
 ```
   🌱  learning fullstack development
   🔨  building projects from scratch
-  📖  documenting every step of the journey
+    📖  documenting every step of the journey
 ```
 
 </div>
