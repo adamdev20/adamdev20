@@ -18,7 +18,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb&perRow=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perRow=8" />
 </p>
 
 <br/>
